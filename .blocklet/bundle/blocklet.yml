@@ -35,10 +35,12 @@ requirements:
   cpu: '*'
   nodejs: '*'
 environments: []
-capabilities: {}
-screenshots: 
-  - 1.gif
+capabilities:
+  navigation: true
+screenshots:
+  - QmW4vAozb1Yve5TMhNwY2XQrfNpL8hhYkcgUwNfcJH9ZZf.gif
 components: []
 repository:
   type: git
-  url: 'git+https://github.com/fatych66/Luckysheet'
+  url: git+https://github.com/fatych66/Luckysheet.git
+gitHash: e5af73cd044f0ed7596db6d0c5ce41935cae7aa9
